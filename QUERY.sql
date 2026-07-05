@@ -146,10 +146,6 @@ from
 -- =========================================================================
 
 select
-  *
-from
-  bookings
-select
   booking_id,
   match_id,
   total_cost
